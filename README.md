@@ -1,2 +1,3 @@
 # Weather-App
 A simple and responsive Weather App that fetches real-time weather data from the OpenWeather API. It displays temperature, humidity, wind speed, and weather conditions based on user-entered city names...
+Author-Himanshu Singh
